@@ -87,7 +87,7 @@ Vamos aprender sobre a palavra estocástica
 3. Geração de sequência
 4. Influência dos parâmetros
 
-Atenção:exclamation: 
+:exclamation: Atenção 
 Nota: Mesmo prompt pode gerar respostas diferentes
 
 ## Tokenizador
@@ -202,7 +202,7 @@ Resposta Máxima do Modelo e Mensagens Anteriores Incluidas
 Como melhorar a criatividade e a criação de respostas diferentes? 
 Temperatura: Configuração de pegar palavras enquanto tem a criação de texto, controlando quão randômico são as ligações.
 
-** **Como Funciona?**
+* **Como Funciona?**
 1. Análise de probabilidade
 2. Seleção de tokens
 3. Geração de sequência
@@ -234,7 +234,7 @@ Top-P: Quais palavras podem ser usadas na possível escolha
 Top-P 0.1: Só considera o primeiro eixo de palavras prováveis até dar 10% das possibilidades
 Top-P 0.9: Considera muitas palavras até dar o eixo de 90% das possibilidades
 
-Atenção:exclamation: 
+:exclamation: Atenção
 Nota: Use Top P ou Temperatura, raramente ambos
 
 #### Frequency Penalty vs. Presence Penalty
