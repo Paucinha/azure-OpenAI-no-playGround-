@@ -6,7 +6,7 @@ Explore o Playground do Azure OpenAI para gerar conteúdos e compreender as dife
 
 **Full-Stack | Básico**
 
-[PlayGround feito durante o projeto](https://pauci-m7r4nsxv-northcentralus.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2024-08-01-preview)
+[PlayGround de chat](https://pauci-m7r4nsxv-northcentralus.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2024-08-01-preview)
 
 ## Objetivo Geral
 
