@@ -169,6 +169,7 @@ Brincar de tokenização no OpenAI `https://platform.openai.com/tokenizer`. Depo
 * Contexto inicial do modelo
 * Definição de comportamento
 * Instruções base
+
 * **Melhores Práticas**
 1. Ser específico
 2. Definir tom
