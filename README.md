@@ -92,7 +92,7 @@ Nota: Mesmo prompt pode gerar respostas diferentes
 
 ## Tokenizador
 
-Brincar de tokenização no OpenAI `https://platform.openai.com/tokenizer`. Depois mostra no código o tokenizador
+Brincar de [tokenização no OpenAI](https://platform.openai.com/tokenizer) `https://platform.openai.com/tokenizer`. Depois mostra no código o tokenizador
 
 **O que são Tokens?**
 * Unidades de texto  
