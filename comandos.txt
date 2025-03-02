@@ -1,0 +1,3 @@
+pip install tiktoken   
+
+pip install openai         
