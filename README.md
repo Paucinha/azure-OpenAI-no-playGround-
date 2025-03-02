@@ -369,6 +369,8 @@ Ir brincar com o freq. penalty
 
 * [Documentação Oficial](https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart?tabs=command-line%2Cjavascript-keyless%2Ctypescript-keyless&pivots=programming-language-dotnet)
 
+* [Platform Tokenizerl](https://platform.openai.com/tokenizer)
+
 * [Estocastico](https://www.dicio.com.br/estocastico/)
 
 * [Referências](https://huggingface.co/docs/transformers/llm_tutorial)
