@@ -1,0 +1,72 @@
+{
+    "id": "/subscriptions/f5f6088e-679a-4fc3-9a5d-600dcca616e6/resourceGroups/AzureOpenAI-Dio/providers/Microsoft.CognitiveServices/accounts/DIOOpenAI",
+    "name": "DIOOpenAI",
+    "kind": "OpenAI",
+    "resourceGroup": "AzureOpenAI-Dio",
+    "subscriptionId": "f5f6088e-679a-4fc3-9a5d-600dcca616e6",
+    "isValid": true,
+    "location": "southcentralus",
+    "provisioningState": "Succeeded",
+    "endpoint": "https://dioopenai.openai.azure.com/",
+    "endpoints": {
+      "OpenAI Language Model Instance API": "https://dioopenai.openai.azure.com/",
+      "OpenAI Dall-E API": "https://dioopenai.openai.azure.com/",
+      "OpenAI Whisper API": "https://dioopenai.openai.azure.com/",
+      "OpenAI Model Scaleset API": "https://dioopenai.openai.azure.com/",
+      "OpenAI Realtime API": "https://dioopenai.openai.azure.com/",
+      "Token Service API": "https://dioopenai.openai.azure.com/"
+    },
+    "plan": "S0",
+    "internalId": "28fe2b9795884c7180bc749963806c03",
+    "createdAt": "2025-03-02T01:44:13.5264669Z",
+    "createdBy": "paucia.renan@gmail.com",
+    "disableLocalAuth": false,
+    "tags": {},
+    "capabilities": [
+      {
+        "name": "VirtualNetworks"
+      },
+      {
+        "name": "CustomerManagedKey"
+      },
+      {
+        "name": "MaxFineTuneCount",
+        "value": "100"
+      },
+      {
+        "name": "MaxRunningFineTuneCount",
+        "value": "3"
+      },
+      {
+        "name": "MaxUserFileCount",
+        "value": "50"
+      },
+      {
+        "name": "MaxTrainingFileSize",
+        "value": "512000000"
+      },
+      {
+        "name": "MaxUserFileImportDurationInHours",
+        "value": "1"
+      },
+      {
+        "name": "MaxFineTuneJobDurationInHours",
+        "value": "720"
+      },
+      {
+        "name": "MaxEvaluationRunDurationInHours",
+        "value": "5"
+      },
+      {
+        "name": "MaxRunningEvaluationCount",
+        "value": "5"
+      },
+      {
+        "name": "TrustedServices",
+        "value": "Microsoft.CognitiveServices,Microsoft.MachineLearningServices,Microsoft.Search,Microsoft.VideoIndexer"
+      },
+      {
+        "name": "RaiMonitor"
+      }
+    ]
+  }
