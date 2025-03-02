@@ -6,6 +6,8 @@ Explore o Playground do Azure OpenAI para gerar conteúdos e compreender as dife
 
 **Full-Stack | Básico**
 
+[PPlayGround feito durante o projeto](https://pauci-m7r4nsxv-northcentralus.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2024-08-01-preview)
+
 ## Objetivo Geral
 
 Vamos aprender a como utilizar o Azure OpenAI no Playground e configurar que precisamos usar para usar o Azure OpenAI.
