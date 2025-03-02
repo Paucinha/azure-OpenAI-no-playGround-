@@ -355,8 +355,6 @@ Ir brincar com o freq. penalty
 
 * [Documentação Oficial](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/role-based-access-control)
 
-* [Documentação Oficial](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/role-based-access-control)
-
 * [Documentação Oficial](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
 
 * [Documentação Oficial](https://medium.com/@1511425435311/understanding-openais-temperature-and-top-p-parameters-in-language-models-d2066504684f)
